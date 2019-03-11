@@ -5,3 +5,6 @@ I got curious for a proof of concept and found [this threejs city generator by C
 
 From the Komodo discord's #dev-games channel, @Regnar linked to [medieval toy town generator](https://watabou.itch.io/toy-town) over the weekend which had me thinking how to integrate with oracles.
 
+clone and just visit http://localhost/citygen?komodoseed=<SOMESEED>
+The original used a number between 0 and 1.
+I've tested with random strings and numbers.
